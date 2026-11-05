@@ -1,0 +1,26 @@
+{
+  "title": "Alternative R&B Lead Lines",
+  "study": "z5301",
+  "bpm": 88,
+  "source_audio": "preview/alternative-r-b-lead-lines-simple-synth-preview.mp3",
+  "source_audio_sha256": "2bf052b13f69765b3bf6711fc35ad725df539877b724b1bb04300510bc3e3434",
+  "source_midi": "midi/z5301-alternative-r-b-lead-lines-opening/z5301-alternative-r-b-lead-lines-opening-combined.mid",
+  "source_midi_sha256": "460267875c6050bef5284e7edda77aa7482fc09fa429f3064ded17594c4846be",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "790061171514dc561508b47599970183dcbc7f5deebc022ab475790708a65247",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "90f7dce011ec8564ea7958a18744d2ff38db2b1684c6b4fa5cb2b2a84ceb9da2",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "c5fdb6215431a7363a7edf4ce3f66a233219d60405c64d70df71360efcfdfbaf",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

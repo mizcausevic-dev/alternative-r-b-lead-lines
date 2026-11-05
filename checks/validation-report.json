@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:16.689149+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z5301-alternative-r-b-lead-lines-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "1f72f54ad6edd460f20600edd56083d25e2350e99bbbfeb72823140c9c7701e6",
+      "errors": []
+    },
+    {
+      "path": "midi/z5301-alternative-r-b-lead-lines-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "db2b8188abd20d6437c88b5166453fde0d21b452bcfb081747d986b932c34a39",
+      "errors": []
+    },
+    {
+      "path": "midi/z5301-alternative-r-b-lead-lines-opening/drums.mid",
+      "bytes": 2706,
+      "sha256": "dece1d140ae71a90cf9a8901ba9c282eb80bcfa27db2eb5e2ebd3418dab10fc7",
+      "errors": []
+    },
+    {
+      "path": "midi/z5301-alternative-r-b-lead-lines-opening/principal_motif.mid",
+      "bytes": 792,
+      "sha256": "e9714ba5ecda716143609976c57c2a5475e6460587c0766b0eac72f451f2d457",
+      "errors": []
+    },
+    {
+      "path": "midi/z5301-alternative-r-b-lead-lines-opening/sub_bass.mid",
+      "bytes": 846,
+      "sha256": "b101542841ce39a97132e9c7100ced5b10f629e31a4f0dcd28659c8932991b63",
+      "errors": []
+    },
+    {
+      "path": "midi/z5301-alternative-r-b-lead-lines-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "7c9ffba0de3e920331ab1d1dd832bd0edd85af367cc0714a9f0bef9676a13676",
+      "errors": []
+    },
+    {
+      "path": "midi/z5301-alternative-r-b-lead-lines-opening/z5301-alternative-r-b-lead-lines-opening-combined.mid",
+      "bytes": 5759,
+      "sha256": "460267875c6050bef5284e7edda77aa7482fc09fa429f3064ded17594c4846be",
+      "errors": []
+    },
+    {
+      "path": "midi/z5302-alternative-r-b-lead-lines-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "b5a9ff5e920c61a89f1e55750eb3b6bf7380098065c38a7f584f7042acd443f3",
+      "errors": []
+    },
+    {
+      "path": "midi/z5302-alternative-r-b-lead-lines-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "717e700e937d14a9fd11e27e16ca7a0de50293a3777c71fc7c135af089cbf663",
+      "errors": []
+    },
+    {
+      "path": "midi/z5302-alternative-r-b-lead-lines-variation/drums.mid",
+      "bytes": 2706,
+      "sha256": "dece1d140ae71a90cf9a8901ba9c282eb80bcfa27db2eb5e2ebd3418dab10fc7",
+      "errors": []
+    },
+    {
+      "path": "midi/z5302-alternative-r-b-lead-lines-variation/principal_motif.mid",
+      "bytes": 792,
+      "sha256": "ecb0e65c2d867284b4a8af50a028b9c4e1c7c85c67975cf27b26f08058dce352",
+      "errors": []
+    },
+    {
+      "path": "midi/z5302-alternative-r-b-lead-lines-variation/sub_bass.mid",
+      "bytes": 846,
+      "sha256": "a3ddee39cbfacf26a82600a657a2032fb39fbce305138fd60584bfbb794b7af1",
+      "errors": []
+    },
+    {
+      "path": "midi/z5302-alternative-r-b-lead-lines-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "574b05c0c5bd43ebed247bfd2423556ec99de1996f8c46560295890940056d91",
+      "errors": []
+    },
+    {
+      "path": "midi/z5302-alternative-r-b-lead-lines-variation/z5302-alternative-r-b-lead-lines-variation-combined.mid",
+      "bytes": 5759,
+      "sha256": "2e13ef52b5d163969a5d7483fd5b585f33e712e25586ca8403fc9dd781087953",
+      "errors": []
+    },
+    {
+      "path": "midi/z5303-alternative-r-b-lead-lines-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "9b030efe3ba23919609e6d3a54b4db0515bb977d93654c4aceeeb63ecfbc9d3b",
+      "errors": []
+    },
+    {
+      "path": "midi/z5303-alternative-r-b-lead-lines-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "cd59cb36a357b9191c02a80a2d317369cc5686b348afe7c37677f5dacb7f8acd",
+      "errors": []
+    },
+    {
+      "path": "midi/z5303-alternative-r-b-lead-lines-contrast/drums.mid",
+      "bytes": 2706,
+      "sha256": "dece1d140ae71a90cf9a8901ba9c282eb80bcfa27db2eb5e2ebd3418dab10fc7",
+      "errors": []
+    },
+    {
+      "path": "midi/z5303-alternative-r-b-lead-lines-contrast/principal_motif.mid",
+      "bytes": 758,
+      "sha256": "1bdc03c3174a463772ab58ea78a1628eb8822089b9f6dc5ee1e96f00df5693c4",
+      "errors": []
+    },
+    {
+      "path": "midi/z5303-alternative-r-b-lead-lines-contrast/sub_bass.mid",
+      "bytes": 846,
+      "sha256": "b4e699a9b0d7d0abf4649b1b97208b4db3e377aab770aab474314d569d7d98a0",
+      "errors": []
+    },
+    {
+      "path": "midi/z5303-alternative-r-b-lead-lines-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2a438bd469c87b85b4250b3974b594fbcbee5ed0c15ed91bc3013000885d5a7b",
+      "errors": []
+    },
+    {
+      "path": "midi/z5303-alternative-r-b-lead-lines-contrast/z5303-alternative-r-b-lead-lines-contrast-combined.mid",
+      "bytes": 5725,
+      "sha256": "9bdcdf61c4f9eefd57d3e0626c6a70c32b36b2bd76c86a36212a7bc6ae58e308",
+      "errors": []
+    },
+    {
+      "path": "midi/z5304-alternative-r-b-lead-lines-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "06e70760d82e45ab418dd3decdad7fa1d13b6bed194b67e4b42563cd8f2f8a5f",
+      "errors": []
+    },
+    {
+      "path": "midi/z5304-alternative-r-b-lead-lines-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "fec4a61faf898e5b73fc25644acfaed91e965b09eb5c78b22d1aa69636eee80d",
+      "errors": []
+    },
+    {
+      "path": "midi/z5304-alternative-r-b-lead-lines-return/drums.mid",
+      "bytes": 2706,
+      "sha256": "dece1d140ae71a90cf9a8901ba9c282eb80bcfa27db2eb5e2ebd3418dab10fc7",
+      "errors": []
+    },
+    {
+      "path": "midi/z5304-alternative-r-b-lead-lines-return/principal_motif.mid",
+      "bytes": 758,
+      "sha256": "55faa16235d984e3d0fc6d8c9b5b5a76e1e4bf77b02b89ea81642c725c724e30",
+      "errors": []
+    },
+    {
+      "path": "midi/z5304-alternative-r-b-lead-lines-return/sub_bass.mid",
+      "bytes": 846,
+      "sha256": "c236e9af526c1305a297b10abbde93a5c14cdbd71f5ac7f335daf4ca3b33e5e2",
+      "errors": []
+    },
+    {
+      "path": "midi/z5304-alternative-r-b-lead-lines-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "70697bc97cdd14f321b89422a93035685daa9cbc518858eaa23d5c014f107d06",
+      "errors": []
+    },
+    {
+      "path": "midi/z5304-alternative-r-b-lead-lines-return/z5304-alternative-r-b-lead-lines-return-combined.mid",
+      "bytes": 5725,
+      "sha256": "3c29c3992ed117d4418a62c7c56c31309235bfa3ed955087502683167ae2692f",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
