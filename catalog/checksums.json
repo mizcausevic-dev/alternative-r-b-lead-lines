@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/alternative-r-b-lead-lines-midi.zip",
-      "bytes": 31699,
-      "sha256": "194af2231ee144d610c7c90dbb14289bf730c8000b1307d1e72f45a270eb3230"
+      "bytes": 32686,
+      "sha256": "36216a1671a32dd2cb6f959f7107597b1ef73b43446fd98812df8c150b2bc6aa"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10066,
-      "sha256": "8775464f6af0f30480f3f035d54c90d7357294f9e30101e3f6e57b84e094476c"
+      "bytes": 10256,
+      "sha256": "a601c1193621b6fc894c8557977cc07c05039828eae90724ec682cad1186a09a"
     },
     {
       "path": "midi/z5301-alternative-r-b-lead-lines-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "3c29c3992ed117d4418a62c7c56c31309235bfa3ed955087502683167ae2692f"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/alternative-r-b-lead-lines-simple-synth-preview.mp3",
       "bytes": 2108439,
       "sha256": "2bf052b13f69765b3bf6711fc35ad725df539877b724b1bb04300510bc3e3434"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4005,
-      "sha256": "ee8f0d7be6e8a2e9b0ab55e34debe17a8cd42bb99a2576478a7910041caacdd6"
+      "bytes": 4120,
+      "sha256": "93ab51fe84736403cb36b350d650919dc46e5cc2992d32c9a4c25eb4b68be63f"
     },
     {
       "path": "social/instagram/caption.txt",
